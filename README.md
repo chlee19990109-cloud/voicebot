@@ -106,7 +106,7 @@ streamlit run ch03_voicebot.py
 ```
 
 1. 실행 후 자동으로 기본 브라우저가 열리며 애플리케이션 화면(`http://localhost:8501`)에 접속됩니다.
-2. 좌측 사이드바(Sidebar) 란에 본인의 **[OpenAI API Key](https://platform.openai.com/account/api-keys)**를 입력합니다.
+2. 좌측 사이드바(Sidebar) 란에 본인의 [OpenAI API Key](https://platform.openai.com/account/api-keys)를 입력합니다.
 3. 사용할 GPT 모델(GPT-4 또는 GPT-3.5-turbo)을 선택합니다.
 4. **"클릭하여 녹음하기"** 버튼을 눌러 음성으로 질문하면 챗봇이 음성으로 대답합니다.
 
