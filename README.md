@@ -12,7 +12,7 @@
 - **UI 프레임워크**: Streamlit을 활용하여 직관적이고 반응형인 웹 인터페이스 제공.
 - **STT (Speech-To-Text)**: 사용자의 음성을 녹음하고 OpenAI의 **Whisper AI** 모델을 활용하여 텍스트로 변환.
 - **자연어 처리 및 대화 생성**: 사용자의 텍스트 질문을 OpenAI의 **GPT-4** 또는 **GPT-3.5-turbo** 모델에 전달하여 25단어 이내의 간결한 한국어 답변 생성 (이전 대화 맥락 유지 기능 포함).
-- **TTS (Text-To-Speech)**: 생성된 텍스트 답변을 **Google Translate TTS(gTTS)**를 통해 음성 파일로 변환하여 브라우저에서 자동 재생.
+- **TTS (Text-To-Speech)**: 생성된 텍스트 답변을 **Google Translate TTS(gTTS)** 를 통해 음성 파일로 변환하여 브라우저에서 자동 재생.
 
 ---
 
