@@ -1,6 +1,7 @@
 # 음성 비서 프로그램 (Voice Bot Program)
 
 **작성자**: 이충환
+
 **서비스 링크**: [음성 비서 프로그램 바로가기](https://voicebot-ftudatsgedhwadz5be3pzt.streamlit.app/)
 
 본 프로젝트는 OpenAI의 ChatGPT API(Whisper, GPT 모델)와 Google의 gTTS를 활용하여, 텍스트 입력 없이 사용자의 음성을 인식하고 음성으로 답변을 제공하는 **대화형 음성 비서(Voice Assistant)** 웹 애플리케이션입니다.
